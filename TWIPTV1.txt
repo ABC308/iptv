@@ -35,7 +35,6 @@ SMART知识台,mitv://fccsovh.pvbox.live:18912/5b1408f2000257986add60639583d4c6.
 三立都會,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f98061afa4450b57f.ts
 東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91b574350273e2f56d6.ts
 中天綜合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts
-ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca6be14f6006d562d6.ts
 ELTA綜合,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cfe10aceff385449f8.ts
 EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98189f8b8b83a0221ef5.ts
 中天亞洲,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts
@@ -96,6 +95,7 @@ EYETV戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000e43399a6af7c08d3cdd97.ts
 都市劇場,mitv://fccsovh.pvbox.live:18912/5b140921000e805ea374e7eca0991ade.ts
 鴻基影劇臺,mitv://fccsovh.pvbox.live:18912/5b14095e000b67b9c440b2f7436deed5.ts
 靖洋戲劇臺,mitv://fccsovh.pvbox.live:18912/5b1409170006660304afc97c409d8a0f.ts
+ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca6be14f6006d562d6.ts
 
 新聞台,#genre#
 東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b319c64140c03704883d.ts
