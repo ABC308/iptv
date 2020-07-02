@@ -1,8 +1,5 @@
 ﻿寰宇台,#genre#
-HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts
-HISTORY HD,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts
-HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts
-HISTORY HD,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts
+HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts#mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts#mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts#mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5.ts
 HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb.ts
 HISTORY2 HD,mitv://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb.ts
 HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb.ts
