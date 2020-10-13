@@ -1,173 +1,636 @@
-ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca6be14f6006d562d6.ts
-ELTA綜合,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cfe10aceff385449f8.ts
-EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98189f8b8b83a0221ef5.ts
-中天亞洲,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts
-CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a3909c23567145acd.ts
-民視,mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b607fc69cf0f8123e477.ts
-台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570bed0fc4fad4ae6cec2.ts
-大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716897dcad3475fe62b2.ts
-中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bfe219541635cbee49.ts
-華視,mitv://fccsovh.pvbox.live:18912/5c2dd747000632418fad3d5d6192e36f.ts
-公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2f2deec889425a77f.ts
-亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac.ts
-好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c4935e990335c7ec7b6.ts
-BBC EARTH  HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
-國家地理野生,mitv://fccsovh.pvbox.live:18912/5b1409170007d3427577583c60df8661.ts
-國家地理HD,http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
-CN卡通HD,mitv://fccsovh.pvbox.live:18912/5b593933000710c565c97caa75e93f95.ts
-TLC,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
-動物星球,mitv://fccsovh.pvbox.live:18912/5b14096100006f33573def4a3329b20b.ts
-迪士尼卡通,mitv://fccsovh.pvbox.live:18912/5b1409f30004f6ec5f8635b4b8538014.ts
-CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaaccaf9855c4a74d50c.ts
-東森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28d00ae908049b1246.ts
-緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
-八大第壹,mitv://fccsovh.pvbox.live:18912/5b14096a00044003d475c17fc884877f.ts
-八大綜合,mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c22a7d0c8d68eff30b.ts
-三立臺灣,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts
-三立都會,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f98061afa4450b57f.ts
-衛視中文臺,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
-東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91b574350273e2f56d6.ts
-靖天育樂,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063f91db20929db07985.ts
-中天綜合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts
-中華美食,mitv://fccseuro.pvbox.live:18912/5b14092b00012661df2e73b04ff6176b.ts
-中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-東森戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f20000320b5734fb18422005e7.ts
-八大戲劇,mitv://fccsovh.pvbox.live:18912/5b1409690000706a6d9dad7480eed23d.ts
-TVBS歡樂,mitv://fccsovh.pvbox.live:18912/5b1409600006657b5be74d1fbbfdd7b7.ts
-緯來戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5763b1a34ab1030c0.ts
-龍祥時代,mitv://fccsovh.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts
-JET 综合,mitv://fccsovh.pvbox.live:18912/5b1409f3000126270ca65ab9be2e70d6.ts
-靖天映畫,mitv://fccsovh.pvbox.live:18912/5b14093f0002d1c284b27817e2fbe0f1.ts
-壹電視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd75c000b56815360377ee7c224e6.ts
-年代新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76000032856e3b05845c82e0b77.ts
-東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b319c64140c03704883d.ts
-中天新聞,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
-民視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd73500017585f0a0f3ed3e15e5fd.ts
-三立新聞,mitv://fccsovh.pvbox.live:18912/5c2dd73800094069b253f4b5a138ed62.ts
-TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4b443ea412ea53efe.ts
-TVBS綜合,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts
-東森財經,mitv://fccseuro.pvbox.live:18912/5b1409f30008c77659c1c29b0216c2f5.ts
-非凡商业HD,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5b646cdd65b1748f97.ts
-非凡新聞,mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts
-衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca6147907f534891ef65e.ts
-東森電影,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
-偉來電影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
-HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
-東森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
-好萊塢電影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
-衛視洋片HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea40538018022108897.ts
-CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts
-FOX SPORTS HD,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c85652052fc832d068cb.ts
-FOX SPORTS 2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf37d9cfdbc70d2774e.ts
-緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144ebde3f3f719d5ce1.ts
-緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5effe974b72f7352b.ts
-偉來日本,mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c0ed04837d4c1239e.ts
-國興衛視,mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd78c6a1de7f026e83a1.ts
-Z頻道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
-CATCHPLAY HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9933e38ed4496938e.ts
-八大娛樂,mitv://fccsovh.pvbox.live:18912/5b14096a00062806326e31d329fe22dd.ts
-HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
-HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
-大愛二臺,mitv://fccsovh.pvbox.live:18912/5bdbf3990002e4dc703253ad20a400ea.ts
-MTV LIVE HD,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6ad3bc16c5fe3a319a.ts
-TVN,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
-EYETV戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000e43399a6af7c08d3cdd97.ts
-龍華洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
-龍華戲劇,mitv://fccsovh.pvbox.live:18912/5b14091600088a8c8e851e426dd9ad32.ts
-龍華動畫,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e24e49c7557a3c1df2.ts
-龍華偶像,mitv://fccsovh.pvbox.live:18912/5b1409180001262645e601af722b9d5a.ts
-龍華電影,mitv://fccsovh.pvbox.live:18912/5b140922000d123144e4bee8a5f2c4ac.ts
-好消息 2,mitv://fccsovh.pvbox.live:18912/5b140922000a72b29f1cfb9b2ccebe31.ts
-ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8f456a7d2dff0dbc34.ts
-美亞電影,mitv://fccsovh.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
-星衛電影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
-星衛娛樂臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000d124926f6932e1bafe127.ts
-美食星球,mitv://fccsovh.pvbox.live:18912/5b140917000d8becfd7949265b2f087b.ts
-高爾夫網球,mitv://fccsovh.pvbox.live:18912/5b1409530005ae3a96484fc7df8e6bab.ts
-中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts
-環宇綜合,mitv://fccsovh.pvbox.live:18912/5b14098e00034c1079e6fefb81d5a09e.ts
-新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac4799b19076200305f5.ts
-Ci罪案偵緝 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282ac4f7f6003df3dd97.ts
-靖天電影,mitv://fccsovh.pvbox.live:18912/5b14093f0000e91e26d71880e87dc6ee.ts
-地理悠人,mitv://fccsovh.pvbox.live:18912/5b14093f000b29ff31145c70b91aa9df.ts
-壹電視綜合,mitv://fccsovh.pvbox.live:18912/5b1409400006a235ed9ac7c11684ffbf.ts
-天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
-V音樂,mitv://fccsovh.pvbox.live:18912/5b593be200077048271019733f9b940b.ts
-CHC 家庭影院 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23cdc5e091a9c5ebaf.ts
-CHC 高清電影 HD,mitv://fccsovh.pvbox.live:18912/5b140953000b29efbe3765b99c2847cf.ts
-探索頻道,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b0471160f8444ee1.ts
-DISCOVERY科學頻道 HD,mitv://fccsovh.pvbox.live:18912/5b14093f000e802b5d1076d3bb86c136.ts
-探索動力,mitv://fccsovh.pvbox.live:18912/5b14093f000628019efe4e42aa0b1d2c.ts
-CHC 動作電影 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0002d180bb997909614fd585.ts
-FASHIONTV HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00021a61125ef3116945d064.ts
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec0703ff2d1deb991a.ts
-FOX MOVIES HD,mitv://fccseuro.pvbox.live:18912/5b7267ae000b9c6c21aaa44500f9afe5.ts
-FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
-FRANCE 24（English）,mitv://fccsovh.pvbox.live:18912/5b14090b0008c74adc26c418e1c483f2.ts
-CNBC,mitv://fccsovh.pvbox.live:18912/5b59394400007aa8a2ae8fd035025c25.ts
-ASN_HD,mitv://118.163.81.13:8911/59ec2b0f000175d8b9be48953bd0c3c2.ts
-AXN,mitv://fccsovh.pvbox.live:18912/5b14092200038877146fe606046a1c01.ts
-CNBC ASIA CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c00bfadfc3394efd0.ts
-TV5MONDE,mitv://fccsovh.pvbox.live:18912/5b1409220005714c9dfa10bcf1d40f00.ts
-BLOOMBERG,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ee08b885e71a238f9.ts
-BLOOMBERG,mitv://fccseuro.pvbox.live:18912/5bdbf3bc000ca38ad5820a42b124689c.ts
-CHANNEL V HD,mitv://fccsovh.pvbox.live:18912/5b1409dc0004f6ab72aefc47973e3aff.ts
-FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
-FOX動作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
-FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
-FXHD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7479ab172d999faab15.ts
-时尚频道,mitv://fccsovh.pvbox.live:18912/5bdbf3b50009e59e8992603a2e3607b2.ts
-NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c60f07fcc94343e1f2.ts
-OUTDOOR HD,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d40e2026669c5d5666.ts
-SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd6202eb6d5ad79dd64.ts
-SUNDANCE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d92ac8a46800d7872.ts
-FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
-亞洲美食,mitv://fccsovh.pvbox.live:18912/5b1409da000c9801a4076cb81fb32896.ts
-靖天卡通,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa21731f8fbaf987c62d.ts
-BBC LIFESTYLE CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bde57c80135ed2e130.ts
-靖天國際,mitv://fccsovh.pvbox.live:18912/5b1408f1000efa28c90a5fac79b7a6c2.ts
-靖天戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000c1de9b5dea6e7363ae268.ts
-博斯高球二台,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a664e1240e447ab417b.ts
-博斯運動,mitv://fccsovh.pvbox.live:18912/5b1409f3000dc9235ceb20d49cb3dbbc.ts
-緯來精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e9516c6bb63a161e2615.ts
-曼迪日本臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000aecee29419a87f70b7785.ts
-衛視合家歡,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
-三立戲劇臺,mitv://fccsovh.pvbox.live:18912/5b140916000e8094bd3e4a9f9cc7006c.ts
-三立綜合,mitv://fccsovh.pvbox.live:18912/5b14091700012642eefad1d530a8ae79.ts
-DIVA,mitv://fccsovh.pvbox.live:18912/5b1408f10005adef68e21f8dec771746.ts
-靖天日本,mitv://fccsovh.pvbox.live:18912/5b140916000ab0160767020b5c1e54b5.ts
-都市劇場,mitv://fccsovh.pvbox.live:18912/5b140921000e805ea374e7eca0991ade.ts
-環宇財經,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a492180b7d5e0d989.ts
-環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts
-LUXE_TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a9f667d6d8a8a6c381.ts
-鴻基影劇臺,mitv://fccsovh.pvbox.live:18912/5b14095e000b67b9c440b2f7436deed5.ts
-靖洋戲劇臺,mitv://fccsovh.pvbox.live:18912/5b1409170006660304afc97c409d8a0f.ts
-FYI,mitv://fccsovh.pvbox.live:18912/5b1408f20005adce1b494c1e0e9d1bab.ts
-LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c80420191fa22bc431.ts
-EVE HD,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac65b1cbd52ba18117.ts
-E! ENTERTAINMENT,mitv://fccsovh.pvbox.live:18912/5b140977000403685d35720d57db655a.ts
-CHANNEL_NEWS_ASIA,mitv://fccsovh.pvbox.live:18912/5b20e3af00008deea2f7ce34f2229c1a.ts
-BABY TV,mitv://fccsovh.pvbox.live:18912/5b14090b00030e822cb28641ef871c91.ts
-MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356ec84bbd394ed0a32f.ts
-FOXNEWS,mitv://fccsovh.pvbox.live:18912/5b593b140008b0a8b4def1ff835570b9.ts
-FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18b5cbef98012f02000.ts
-DWTV,mitv://fccsovh.pvbox.live:18912/5b14098f0005711e10757987c378a314.ts
-HBO SIGNATURE WEST,mitv://fccsovh.pvbox.live:18912/5b593bbb00085133d676fe7d3a9716d3.ts
-CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c6c0384974b8ace2f.ts
-SMART知识台,mitv://fccsovh.pvbox.live:18912/5b1408f2000257986add60639583d4c6.ts
-HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b168710326061c261.ts
-HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2246606b96c49529a.ts
-HKS,mitv://fccsovh.pvbox.live:18912/5b14096a000c1de2580d2cb9743ae218.ts
-NICK.JR,mitv://fccsovh.pvbox.live:18912/5b14098f000ba3b0a0b83a583d8d7fbe.ts
-ALJAZEERA,mitv://fccsovh.pvbox.live:18912/5b1409fc00025783370fad26796d9310.ts
-BOOMERANG,mitv://fccsovh.pvbox.live:18912/5b1409da000811249b84244220a4ab11.ts
-MEZZO LIVEHD,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff79ee12ec3b02e022.ts
-EVE,mitv://fccsovh.pvbox.live:18912/5bdbf3a000041d6abcb0433451f16f86.ts
-SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5bdbf3c0000900895708450e640585c3.ts
-原住民族电视,mitv://fccsovh.pvbox.live:18912/5bdbf387000760a7e096a3225c6ed52c.ts
-TVN,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c733d602b50acc227.ts
-客家电视,mitv://fccsovh.pvbox.live:18912/5bdbf38e000519508784bb09ebeacf4d.ts
-LUXE TV,mitv://fccsovh.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15.ts
-博斯高球1DH,mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cbf41ad04a67a90600.ts
-佛卫慈悲台,mitv://fccsovh.pvbox.live:18912/5bdbf39c000a41545bb103d6dbe573dd.ts
-壹电视新闻台,mitv://fccsovh.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts
+臺灣頻道,#genre#
+台視,http://173.82.57.77:8890/fhtv.php?id=27
+台視,http://173.82.57.77:8890/fhtv.php?id=326
+台視新聞,http://173.82.57.77:8890/fhtv.php?id=1
+台視綜合,http://173.82.57.77:8890/fhtv.php?id=309
+台視財經,http://173.82.57.77:8890/fhtv.php?id=300
+民視,http://173.82.57.77:8890/fhtv.php?id=26
+民視,http://173.82.57.77:8890/fhtv.php?id=336
+民視新聞台,http://173.82.57.77:8890/fhtv.php?id=13
+民視綜藝,http://173.82.57.77:8890/fhtv.php?id=98
+民視第一台,http://173.82.57.77:8890/fhtv.php?id=34
+民視臺灣台,http://173.82.57.77:8890/fhtv.php?id=36
+民視影劇,http://173.82.57.77:8890/fhtv.php?id=1023
+民視旅遊,http://173.82.57.77:8890/fhtv.php?id=78
+華視,http://173.82.57.77:8890/fhtv.php?id=32
+華視,http://173.82.57.77:8890/fhtv.php?id=327
+華視資訊,http://173.82.57.77:8890/fhtv.php?id=6
+華納電影,http://173.82.57.77:8890/fhtv.php?id=83
+華藝綜合台,http://173.82.57.77:8890/fhtv.php?id=310
+中視,http://173.82.57.77:8890/fhtv.php?id=333
+中視經典,http://173.82.57.77:8890/fhtv.php?id=185
+中視新聞,http://173.82.57.77:8890/fhtv.php?id=7
+中視新聞,http://173.82.57.77:8890/fhtv.php?id=28
+中視菁采,http://173.82.57.77:8890/fhtv.php?id=74
+中天新聞,http://173.82.57.77:8890/fhtv.php?id=3
+中天綜合,http://173.82.57.77:8890/fhtv.php?id=54
+中天娛樂,http://173.82.57.77:8890/fhtv.php?id=324
+中天綜合,http://173.82.57.77:8890/fhtv.php?id=325
+中天亞洲台,http://173.82.57.77:8890/fhtv.php?id=322
+公視,http://173.82.57.77:8890/fhtv.php?id=86
+公視,http://173.82.57.77:8890/fhtv.php?id=59
+公視,http://173.82.57.77:8890/fhtv.php?id=361
+公視戲劇,http://173.82.57.77:8890/fhtv.php?id=69
+八大精彩台,http://173.82.57.77:8890/fhtv.php?id=1024
+八大綜合台,http://173.82.57.77:8890/fhtv.php?id=90
+八大戲劇台,http://173.82.57.77:8890/fhtv.php?id=81
+東森幼幼,http://173.82.57.77:8890/fhtv.php?id=371
+東森綜合台,http://173.82.57.77:8890/fhtv.php?id=372
+龍祥時代,http://173.82.57.77:8890/fhtv.php?id=373
+東森新聞,http://173.82.57.77:8890/fhtv.php?id=9
+東森新聞,http://173.82.57.77:8890/fhtv.php?id=12
+東森超視,http://173.82.57.77:8890/fhtv.php?id=80
+東森戲劇,http://173.82.57.77:8890/fhtv.php?id=321
+東森電影,http://173.82.57.77:8890/fhtv.php?id=350
+東森洋片,http://173.82.57.77:8890/fhtv.php?id=1128
+東森購物1,http://173.82.57.77:8890/fhtv.php?id=1155
+東森購物2,http://173.82.57.77:8890/fhtv.php?id=1156
+龍華經典,http://173.82.57.77:8890/fhtv.php?id=364
+龍華戲劇,http://173.82.57.77:8890/fhtv.php?id=365
+龍華動畫,http://173.82.57.77:8890/fhtv.php?id=366
+龍華電影,http://173.82.57.77:8890/fhtv.php?id=311
+龍華經典,http://173.82.57.77:8890/fhtv.php?id=100
+龍華偶像,http://173.82.57.77:8890/fhtv.php?id=347
+龍華日韓,http://173.82.57.77:8890/fhtv.php?id=382
+緯來日本,http://173.82.57.77:8890/fhtv.php?id=46
+緯來日本,http://173.82.57.77:8890/fhtv.php?id=337
+緯來體育,http://173.82.57.77:8890/fhtv.php?id=52
+緯來電影,http://173.82.57.77:8890/fhtv.php?id=96
+緯來體育,http://173.82.57.77:8890/fhtv.php?id=118
+緯來育樂,http://173.82.57.77:8890/fhtv.php?id=312
+靖天育樂台,http://173.82.57.77:8890/fhtv.php?id=1029
+靖天卡通台,http://173.82.57.77:8890/fhtv.php?id=344
+靖天國際台,http://173.82.57.77:8890/fhtv.php?id=345
+靖洋卡通台,http://173.82.57.77:8890/fhtv.php?id=348
+靖天映畫,http://173.82.57.77:8890/fhtv.php?id=349
+靖洋戲劇台,http://173.82.57.77:8890/fhtv.php?id=319
+靖天綜合台,http://173.82.57.77:8890/fhtv.php?id=308
+靖天日本台,http://173.82.57.77:8890/fhtv.php?id=108
+靖天戲劇台,http://173.82.57.77:8890/fhtv.php?id=109
+靖天電影台,http://173.82.57.77:8890/fhtv.php?id=110
+靖天資訊台,http://173.82.57.77:8890/fhtv.php?id=49
+靖天歡樂台,http://173.82.57.77:8890/fhtv.php?id=51
+TVBS,http://173.82.57.77:8890/fhtv.php?id=16
+TVBS,http://173.82.57.77:8890/fhtv.php?id=88
+TVBS歡樂台,http://173.82.57.77:8890/fhtv.php?id=40
+TVBS精采台,http://173.82.57.77:8890/fhtv.php?id=66
+三立LIVE新聞,http://173.82.57.77:8890/fhtv.php?id=4
+三立臺灣台,http://173.82.57.77:8890/fhtv.php?id=35
+三立都會台,http://173.82.57.77:8890/fhtv.php?id=38
+三立戲劇台,http://173.82.57.77:8890/fhtv.php?id=64
+寰宇綜合,http://173.82.57.77:8890/fhtv.php?id=190
+寰宇新聞台,http://173.82.57.77:8890/fhtv.php?id=304
+寰宇新聞臺灣台,http://173.82.57.77:8890/fhtv.php?id=87
+寰宇財經台,http://173.82.57.77:8890/fhtv.php?id=320
+壹綜合,http://173.82.57.77:8890/fhtv.php?id=305
+壹新聞,http://173.82.57.77:8890/fhtv.php?id=303
+YouTube健康2.0,http://173.82.57.77:8890/fhtv.php?id=2
+JET綜合,http://173.82.57.77:8890/fhtv.php?id=41
+好萊塢電影,http://173.82.57.77:8890/fhtv.php?id=37
+天映經典,http://173.82.57.77:8890/fhtv.php?id=328
+SET iNEWS,http://173.82.57.77:8890/fhtv.php?id=8
+幸福空間居家,http://173.82.57.77:8890/fhtv.php?id=61
+采昌影劇,http://173.82.57.77:8890/fhtv.php?id=62
+國興衛視,http://173.82.57.77:8890/fhtv.php?id=65
+希望電視,http://173.82.57.77:8890/fhtv.php?id=67
+達文西頻道,http://173.82.57.77:8890/fhtv.php?id=68
+時尚運動X,http://173.82.57.77:8890/fhtv.php?id=71
+韓國娛樂,http://173.82.57.77:8890/fhtv.php?id=73
+HakkqTV,http://173.82.57.77:8890/fhtv.php?id=76
+亞洲旅遊,http://173.82.57.77:8890/fhtv.php?id=77
+衛視體育,http://173.82.57.77:8890/fhtv.php?id=79
+智林體育,http://173.82.57.77:8890/fhtv.php?id=82
+CinemaWorld,http://173.82.57.77:8890/fhtv.php?id=84
+爆笑頻道,http://173.82.57.77:8890/fhtv.php?id=85
+AMC最愛電影,http://173.82.57.77:8890/fhtv.php?id=92
+世新綜合5,http://173.82.57.77:8890/fhtv.php?id=95
+高點綜合,http://173.82.57.77:8890/fhtv.php?id=99
+人間衛視,http://173.82.57.77:8890/fhtv.php?id=101
+好消息TV,http://173.82.57.77:8890/fhtv.php?id=104
+國興衛視,http://173.82.57.77:8890/fhtv.php?id=105
+博斯魅力,http://173.82.57.77:8890/fhtv.php?id=175
+大愛,http://173.82.57.77:8890/fhtv.php?id=184
+金光布袋戲,http://173.82.57.77:8890/fhtv.php?id=1060
+第1商業,http://173.82.57.77:8890/fhtv.php?id=186
+EYE戲劇,http://173.82.57.77:8890/fhtv.php?id=191
+Nick兒童,http://173.82.57.77:8890/fhtv.php?id=50
+Boomerang,http://173.82.57.77:8890/fhtv.php?id=57
+AFN,http://173.82.57.77:8890/fhtv.php?id=195
+中文字Smithsonian,http://173.82.57.77:8890/fhtv.php?id=291
+中文字FoodNetwork,http://173.82.57.77:8890/fhtv.php?id=294
+Eleven 體育2,http://173.82.57.77:8890/fhtv.php?id=301
+國家地理,http://173.82.57.77:8890/fhtv.php?id=302
+非凡商業,http://173.82.57.77:8890/fhtv.php?id=187
+年代新聞,http://173.82.57.77:8890/fhtv.php?id=236
+探索亞洲,http://173.82.57.77:8890/fhtv.php?id=306
+探索頻道,http://173.82.57.77:8890/fhtv.php?id=1035
+國家野生,http://173.82.57.77:8890/fhtv.php?id=1038
+AFN,http://173.82.57.77:8890/fhtv.php?id=307
+空中英語教,http://173.82.57.77:8890/fhtv.php?id=313
+非凡新聞,http://173.82.57.77:8890/fhtv.php?id=314
+立綜合台,http://173.82.57.77:8890/fhtv.php?id=315
+曼迪日本台,http://173.82.57.77:8890/fhtv.php?id=316
+中華財經台,http://173.82.57.77:8890/fhtv.php?id=317
+生活英語台,http://173.82.57.77:8890/fhtv.php?id=323
+探索科學,http://173.82.57.77:8890/fhtv.php?id=343
+ELTA娛樂,http://173.82.57.77:8890/fhtv.php?id=351
+CATCHPLAY電影台,http://173.82.57.77:8890/fhtv.php?id=362
+好消息2,http://173.82.57.77:8890/fhtv.php?id=363
+衛視西片,http://173.82.57.77:8890/fhtv.php?id=369
+Love Nature,http://173.82.57.77:8890/fhtv.php?id=388
+TV5MONDE STYLE,http://173.82.57.77:8890/fhtv.php?id=389
+ELTA影劇,http://173.82.57.77:8890/fhtv.php?id=500
+CLASSICA 古典樂,http://173.82.57.77:8890/fhtv.php?id=1027
+ELTA綜合,http://173.82.57.77:8890/fhtv.php?id=1137
+MOMO親子台,http://173.82.57.77:8890/fhtv.php?id=1149
+CN卡通頻道,http://173.82.57.77:8890/fhtv.php?id=107
+愛放,http://173.82.57.77:8890/fhtv.php?id=1127
+愛放2,http://173.82.57.77:8890/fhtv.php?id=299
+愛放3,http://173.82.57.77:8890/fhtv.php?id=259
+唯心電視,http://173.82.57.77:8890/fhtv.php?id=1150
+光影歐洲,http://173.82.57.77:8890/fhtv.php?id=1157
+History 2,http://173.82.57.77:8890/fhtv.php?id=1158
+CI罪案偵查,http://173.82.57.77:8890/fhtv.php?id=1159
+AXN亞洲,http://173.82.57.77:8890/fhtv.php?id=1066
+MOMO親子,http://173.82.57.77:8890/fhtv.php?id=1126
+Z頻道,http://173.82.57.77:8890/fhtv.php?id=1130
+Cartoon,http://173.82.57.77:8890/fhtv.php?id=48
+FOX 體育1,http://173.82.57.77:8890/fhtv.php?id=1131
+FOX 體育2,http://173.82.57.77:8890/fhtv.php?id=1132
+FOX,http://173.82.57.77:8890/fhtv.php?id=384
+FOX ACTION,http://173.82.57.77:8890/fhtv.php?id=385
+FOX CRIME,http://173.82.57.77:8890/fhtv.php?id=386
+Eleven 體育1,http://173.82.57.77:8890/fhtv.php?id=1133
+TRACE體育Stars,http://173.82.57.77:8890/fhtv.php?id=1037
+動物星球1,http://173.82.57.77:8890/fhtv.php?id=367
+動物星球2,http://173.82.57.77:8890/fhtv.php?id=368
+博斯高球1,http://173.82.57.77:8890/fhtv.php?id=377
+博斯無限,http://173.82.57.77:8890/fhtv.php?id=381
+博斯無限2,http://173.82.57.77:8890/fhtv.php?id=426
+博斯高球2,http://173.82.57.77:8890/fhtv.php?id=378
+博斯運動1,http://173.82.57.77:8890/fhtv.php?id=379
+博斯運動2,http://173.82.57.77:8890/fhtv.php?id=380
+博斯網球,http://173.82.57.77:8890/fhtv.php?id=498
+ELTA體育1台,http://173.82.57.77:8890/fhtv.php?id=192
+ELTA體育2台,http://173.82.57.77:8890/fhtv.php?id=193
+ELTA體育3台,http://173.82.57.77:8890/fhtv.php?id=194
+港澳頻道,#genre#
+18台,http://173.82.57.77:8890/fhtv.php?id=44
+翡翠台1,http://173.82.57.77:8890/fhtv.php?id=390
+翡翠台2,http://173.82.57.77:8890/fhtv.php?id=1084
+明珠台,http://173.82.57.77:8890/fhtv.php?id=391
+J2,http://173.82.57.77:8890/fhtv.php?id=392
+香港開電視,http://173.82.57.77:8890/fhtv.php?id=17
+澳門衛星,http://173.82.57.77:8890/fhtv.php?id=29
+美國唐人街台,http://173.82.57.77:8890/fhtv.php?id=43
+RTHK31,http://173.82.57.77:8890/fhtv.php?id=353
+RTHK32,http://173.82.57.77:8890/fhtv.php?id=397
+有線娛樂,http://173.82.57.77:8890/fhtv.php?id=360
+有線體育2,http://173.82.57.77:8890/fhtv.php?id=356
+無線財經,http://173.82.57.77:8890/fhtv.php?id=393
+無線新聞,http://173.82.57.77:8890/fhtv.php?id=394
+有線新聞,http://173.82.57.77:8890/fhtv.php?id=395
+無線新聞,http://173.82.57.77:8890/fhtv.php?id=45
+澳門蓮花,http://173.82.57.77:8890/fhtv.php?id=70
+ViUtv,http://173.82.57.77:8890/fhtv.php?id=72
+星衛娛樂台,http://173.82.57.77:8890/fhtv.php?id=89
+衛視電影,http://173.82.57.77:8890/fhtv.php?id=93
+星衛電影,http://173.82.57.77:8890/fhtv.php?id=496
+影迷數位電影,http://173.82.57.77:8890/fhtv.php?id=497
+有線電影,http://173.82.57.77:8890/fhtv.php?id=354
+澳視葡語,http://173.82.57.77:8890/fhtv.php?id=24
+鳳凰資訊,http://173.82.57.77:8890/fhtv.php?id=1080
+鳳凰電影,http://173.82.57.77:8890/fhtv.php?id=18
+鳳凰電影,http://173.82.57.77:8890/fhtv.php?id=19
+鳳凰資訊,http://173.82.57.77:8890/fhtv.php?id=21
+鳳凰中文,http://173.82.57.77:8890/fhtv.php?id=357
+鳳凰香港,http://173.82.57.77:8890/fhtv.php?id=358
+鳳凰資訊,http://173.82.57.77:8890/fhtv.php?id=359
+香港衛視,http://173.82.57.77:8890/fhtv.php?id=399
+美亞電影,http://173.82.57.77:8890/fhtv.php?id=375
+NOW新聞,http://173.82.57.77:8890/fhtv.php?id=396
+NOW直播,http://173.82.57.77:8890/fhtv.php?id=400
+有線體育1,http://173.82.57.77:8890/fhtv.php?id=401
+翡翠台,http://173.82.57.77:8890/fhtv.php?id=429
+新時代溫哥華,http://173.82.57.77:8890/fhtv.php?id=1032
+新時代多倫多2,http://173.82.57.77:8890/fhtv.php?id=1033
+TVB星河,http://173.82.57.77:8890/fhtv.php?id=1079
+衛視卡式台,http://173.82.57.77:8890/fhtv.php?id=1085
+新馬頻道,#genre#
+新馬-雙星,http://173.82.57.77:8890/fhtv.php?id=1086
+新馬CERIA,http://173.82.57.77:8890/fhtv.php?id=1161
+新馬AOD351,http://173.82.57.77:8890/fhtv.php?id=1162
+新馬AOD352,http://173.82.57.77:8890/fhtv.php?id=1163
+新馬AOD353,http://173.82.57.77:8890/fhtv.php?id=1164
+新馬AOD354,http://173.82.57.77:8890/fhtv.php?id=1165
+新馬AOD355,http://173.82.57.77:8890/fhtv.php?id=1166
+新馬WWE,http://173.82.57.77:8890/fhtv.php?id=1167
+新馬EGG,http://173.82.57.77:8890/fhtv.php?id=1168
+新馬OKTO,http://173.82.57.77:8890/fhtv.php?id=1169
+新馬TVN,http://173.82.57.77:8890/fhtv.php?id=1170
+新馬BNC,http://173.82.57.77:8890/fhtv.php?id=1171
+新馬Arena,http://173.82.57.77:8890/fhtv.php?id=1172
+新馬CRICKET,http://173.82.57.77:8890/fhtv.php?id=1173
+新馬IKIM TV,http://173.82.57.77:8890/fhtv.php?id=1147
+新馬AOD353,http://173.82.57.77:8890/fhtv.php?id=1067
+新馬AOD354,http://173.82.57.77:8890/fhtv.php?id=1068
+新馬AOD355,http://173.82.57.77:8890/fhtv.php?id=1069
+新馬ASSP1_,http://173.82.57.77:8890/fhtv.php?id=1070
+新馬ASSP2_,http://173.82.57.77:8890/fhtv.php?id=1071
+新馬ASSP3_,http://173.82.57.77:8890/fhtv.php?id=1072
+新馬AEC,http://173.82.57.77:8890/fhtv.php?id=1073
+新馬ASSP4,http://173.82.57.77:8890/fhtv.php?id=1074
+新馬OKEY,http://173.82.57.77:8890/fhtv.php?id=1075
+新馬Suria,http://173.82.57.77:8890/fhtv.php?id=1076
+新馬Channel U,http://173.82.57.77:8890/fhtv.php?id=1077
+新馬Vasantham,http://173.82.57.77:8890/fhtv.php?id=1078
+新馬AXN,http://173.82.57.77:8890/fhtv.php?id=1044
+新馬BNC,http://173.82.57.77:8890/fhtv.php?id=1045
+新馬ARENA,http://173.82.57.77:8890/fhtv.php?id=1049
+新馬AOD351,http://173.82.57.77:8890/fhtv.php?id=1050
+新馬-全佳,http://173.82.57.77:8890/fhtv.php?id=427
+新馬-AOD,http://173.82.57.77:8890/fhtv.php?id=428
+新馬-雙星,http://173.82.57.77:8890/fhtv.php?id=431
+新馬-歡喜台,http://173.82.57.77:8890/fhtv.php?id=432
+新馬Astro AEC,http://173.82.57.77:8890/fhtv.php?id=433
+新馬Astro suria,http://173.82.57.77:8890/fhtv.php?id=434
+新馬TV1,http://173.82.57.77:8890/fhtv.php?id=435
+新馬TV2,http://173.82.57.77:8890/fhtv.php?id=436
+新馬TV3,http://173.82.57.77:8890/fhtv.php?id=437
+新馬TV9,http://173.82.57.77:8890/fhtv.php?id=438
+新馬NTV7 Awani,http://173.82.57.77:8890/fhtv.php?id=439
+新馬Astro Awani,http://173.82.57.77:8890/fhtv.php?id=440
+新馬-天映,http://173.82.57.77:8890/fhtv.php?id=441
+新馬TV8,http://173.82.57.77:8890/fhtv.php?id=442
+新馬AOD352,http://173.82.57.77:8890/fhtv.php?id=450
+新馬Channel5,http://173.82.57.77:8890/fhtv.php?id=141
+新馬Channel8,http://173.82.57.77:8890/fhtv.php?id=142
+新馬AWANI,http://173.82.57.77:8890/fhtv.php?id=1151
+英美加印,#genre#
+Disney j,http://173.82.57.77:8890/fhtv.php?id=47
+Disneyxd,http://173.82.57.77:8890/fhtv.php?id=31
+Nickj,http://173.82.57.77:8890/fhtv.php?id=53
+Nickelodeon europe,http://173.82.57.77:8890/fhtv.php?id=56
+BabyFirst,http://173.82.57.77:8890/fhtv.php?id=173
+BBC CBeebies,http://173.82.57.77:8890/fhtv.php?id=115
+Babylu,http://173.82.57.77:8890/fhtv.php?id=1129
+國外5,http://173.82.57.77:8890/fhtv.php?id=5
+皇馬足球,http://173.82.57.77:8890/fhtv.php?id=20
+VOA衛視,http://173.82.57.77:8890/fhtv.php?id=22
+Animax,http://173.82.57.77:8890/fhtv.php?id=60
+Travel Channel,http://173.82.57.77:8890/fhtv.php?id=63
+cnex,http://173.82.57.77:8890/fhtv.php?id=91
+M2O音樂,http://173.82.57.77:8890/fhtv.php?id=94
+BBC earth,http://173.82.57.77:8890/fhtv.php?id=97
+BLVE ANT EXTREME,http://173.82.57.77:8890/fhtv.php?id=103
+音樂-MTV Live,http://173.82.57.77:8890/fhtv.php?id=106
+LUXE.TV,http://173.82.57.77:8890/fhtv.php?id=112
+Fashion One,http://173.82.57.77:8890/fhtv.php?id=113
+History,http://173.82.57.77:8890/fhtv.php?id=116
+英國-BBC 1,http://173.82.57.77:8890/fhtv.php?id=158
+英國-BBC Parliament,http://173.82.57.77:8890/fhtv.php?id=159
+英國-BBC Entertainment,http://173.82.57.77:8890/fhtv.php?id=160
+英國-BBC Alba,http://173.82.57.77:8890/fhtv.php?id=161
+英國-BBC Parliament,http://173.82.57.77:8890/fhtv.php?id=162
+英國-BBC News,http://173.82.57.77:8890/fhtv.php?id=164
+英國-BBC 2,http://173.82.57.77:8890/fhtv.php?id=157
+BT Sport 1,http://173.82.57.77:8890/fhtv.php?id=165
+BT Sport 2,http://173.82.57.77:8890/fhtv.php?id=166
+BT Sport 3,http://173.82.57.77:8890/fhtv.php?id=167
+BT Sport ESPN,http://173.82.57.77:8890/fhtv.php?id=168
+英國-Channel 4,http://173.82.57.77:8890/fhtv.php?id=169
+ESPN-U,http://173.82.57.77:8890/fhtv.php?id=170
+Sky Sport 2,http://173.82.57.77:8890/fhtv.php?id=171
+Sky Sports 1,http://173.82.57.77:8890/fhtv.php?id=172
+車迷TV,http://173.82.57.77:8890/fhtv.php?id=352
+VIUTV6,http://173.82.57.77:8890/fhtv.php?id=176
+體育MainEvent,http://173.82.57.77:8890/fhtv.php?id=177
+Sky Sports Action,http://173.82.57.77:8890/fhtv.php?id=178
+Sky Sports Cricket,http://173.82.57.77:8890/fhtv.php?id=179
+Sky Sports Golf,http://173.82.57.77:8890/fhtv.php?id=180
+Sky Sports PremierLeague,http://173.82.57.77:8890/fhtv.php?id=181
+Sky Sports,http://173.82.57.77:8890/fhtv.php?id=182
+Sky Sport 3,http://173.82.57.77:8890/fhtv.php?id=183
+Medici Arts,http://173.82.57.77:8890/fhtv.php?id=188
+Bloomberg Europe,http://173.82.57.77:8890/fhtv.php?id=370
+VTV4,http://173.82.57.77:8890/fhtv.php?id=341
+FOX Sport 3,http://173.82.57.77:8890/fhtv.php?id=376
+FOX Family,http://173.82.57.77:8890/fhtv.php?id=383
+CW LIVE,http://173.82.57.77:8890/fhtv.php?id=420
+BBC world news,http://173.82.57.77:8890/fhtv.php?id=421
+BBC lifestyle,http://173.82.57.77:8890/fhtv.php?id=424
+Ginx csrortstv,http://173.82.57.77:8890/fhtv.php?id=425
+探索EVE,http://173.82.57.77:8890/fhtv.php?id=1036
+體育-WWE,http://173.82.57.77:8890/fhtv.php?id=1081
+FOX WILD CARA,http://173.82.57.77:8890/fhtv.php?id=1083
+印尼-Karaoke,http://173.82.57.77:8890/fhtv.php?id=1141
+印尼-Jakarta Globe,http://173.82.57.77:8890/fhtv.php?id=1142
+印尼-InsanTV,http://173.82.57.77:8890/fhtv.php?id=1143
+印尼-CNN Indonesia,http://173.82.57.77:8890/fhtv.php?id=1145
+印尼-MetroTV,http://173.82.57.77:8890/fhtv.php?id=1124
+DW德國之聲,http://173.82.57.77:8890/fhtv.php?id=1059
+VOA美國之音,http://173.82.57.77:8890/fhtv.php?id=495
+美國5 Star Max,http://173.82.57.77:8890/fhtv.php?id=1174
+美國Action Max,http://173.82.57.77:8890/fhtv.php?id=1175
+美國MoreMax,http://173.82.57.77:8890/fhtv.php?id=1176
+美國Hallmark Channel,http://173.82.57.77:8890/fhtv.php?id=1177
+美國Hallmark Drama,http://173.82.57.77:8890/fhtv.php?id=1178
+美國Hallmark Movie,http://173.82.57.77:8890/fhtv.php?id=1179
+美國TCM,http://173.82.57.77:8890/fhtv.php?id=1180
+美國Starz in Black,http://173.82.57.77:8890/fhtv.php?id=1181
+美國ESPN 1,http://173.82.57.77:8890/fhtv.php?id=1182
+美國ESPN 2,http://173.82.57.77:8890/fhtv.php?id=1183
+美國NBC Sport,http://173.82.57.77:8890/fhtv.php?id=1184
+美國NBA TV US,http://173.82.57.77:8890/fhtv.php?id=1185
+美國Fox Sport 1,http://173.82.57.77:8890/fhtv.php?id=1186
+美國Fox Sport 2,http://173.82.57.77:8890/fhtv.php?id=1187
+美國Tennis,http://173.82.57.77:8890/fhtv.php?id=1188
+美國NFL Network,http://173.82.57.77:8890/fhtv.php?id=1189
+美國Golf,http://173.82.57.77:8890/fhtv.php?id=1190
+美國WWE,http://173.82.57.77:8890/fhtv.php?id=1191
+美國UFC PASS,http://173.82.57.77:8890/fhtv.php?id=1192
+美國Willow,http://173.82.57.77:8890/fhtv.php?id=1193
+美國NHL Network,http://173.82.57.77:8890/fhtv.php?id=1194
+美國Bein Sports USA,http://173.82.57.77:8890/fhtv.php?id=1195
+美國ESPN U,http://173.82.57.77:8890/fhtv.php?id=1196
+美國Big Ten Network,http://173.82.57.77:8890/fhtv.php?id=1197
+美國Discovery Channel,http://173.82.57.77:8890/fhtv.php?id=1198
+美國Motor Trend,http://173.82.57.77:8890/fhtv.php?id=1199
+美國National Geographic,http://173.82.57.77:8890/fhtv.php?id=1200
+美國Nat Geo Wild,http://173.82.57.77:8890/fhtv.php?id=1201
+美國Investigation Discovery US,http://173.82.57.77:8890/fhtv.php?id=1202
+美國Animal Planet,http://173.82.57.77:8890/fhtv.php?id=1203
+美國History,http://173.82.57.77:8890/fhtv.php?id=1204
+美國SMITHSONIAN,http://173.82.57.77:8890/fhtv.php?id=1205
+美國TLC,http://173.82.57.77:8890/fhtv.php?id=1206
+美國Science,http://173.82.57.77:8890/fhtv.php?id=1207
+美國Disney,http://173.82.57.77:8890/fhtv.php?id=1208
+美國Disney XD,http://173.82.57.77:8890/fhtv.php?id=1209
+美國Disney Junior,http://173.82.57.77:8890/fhtv.php?id=1210
+美國Cartoon Network US,http://173.82.57.77:8890/fhtv.php?id=1211
+美國Nickelodeon US,http://173.82.57.77:8890/fhtv.php?id=1212
+美國Nick Junior,http://173.82.57.77:8890/fhtv.php?id=1213
+美國Boomerang,http://173.82.57.77:8890/fhtv.php?id=1214
+美國Universal Kids,http://173.82.57.77:8890/fhtv.php?id=1215
+美國ABC,http://173.82.57.77:8890/fhtv.php?id=1216
+美國NBC,http://173.82.57.77:8890/fhtv.php?id=1217
+美國FOX,http://173.82.57.77:8890/fhtv.php?id=1218
+美國CBS,http://173.82.57.77:8890/fhtv.php?id=1219
+美國CW,http://173.82.57.77:8890/fhtv.php?id=1220
+美國SYFY,http://173.82.57.77:8890/fhtv.php?id=1221
+美國E!,http://173.82.57.77:8890/fhtv.php?id=1222
+美國Comedy Central,http://173.82.57.77:8890/fhtv.php?id=1223
+美國TNT US,http://173.82.57.77:8890/fhtv.php?id=1224
+美國Bravo US,http://173.82.57.77:8890/fhtv.php?id=1225
+美國LifeTime US,http://173.82.57.77:8890/fhtv.php?id=1226
+美國Arts and Entertainment,http://173.82.57.77:8890/fhtv.php?id=1227
+美國AMC,http://173.82.57.77:8890/fhtv.php?id=1228
+美國WE TV,http://173.82.57.77:8890/fhtv.php?id=1229
+美國USA Network,http://173.82.57.77:8890/fhtv.php?id=1230
+美國BET,http://173.82.57.77:8890/fhtv.php?id=1231
+美國Lifetime Movie Network,http://173.82.57.77:8890/fhtv.php?id=1232
+美國VH-1,http://173.82.57.77:8890/fhtv.php?id=1233
+美國TBS,http://173.82.57.77:8890/fhtv.php?id=1234
+美國OWN US,http://173.82.57.77:8890/fhtv.php?id=1235
+美國GSN,http://173.82.57.77:8890/fhtv.php?id=1236
+美國HGTV US,http://173.82.57.77:8890/fhtv.php?id=1237
+美國Cooking Channel,http://173.82.57.77:8890/fhtv.php?id=1238
+美國MTV US,http://173.82.57.77:8890/fhtv.php?id=1239
+美國FYI,http://173.82.57.77:8890/fhtv.php?id=1240
+美國BabyTV,http://173.82.57.77:8890/fhtv.php?id=1241
+美國TVB1,http://173.82.57.77:8890/fhtv.php?id=1242
+美國TVB DRAMA,http://173.82.57.77:8890/fhtv.php?id=1243
+美國TVBJ1,http://173.82.57.77:8890/fhtv.php?id=1244
+美國TVBE,http://173.82.57.77:8890/fhtv.php?id=1245
+美國NOWTV,http://173.82.57.77:8890/fhtv.php?id=1246
+美國CNN USA,http://173.82.57.77:8890/fhtv.php?id=1102
+美國FOX,http://173.82.57.77:8890/fhtv.php?id=1103
+美國MSNBC,http://173.82.57.77:8890/fhtv.php?id=1104
+美國The Weather,http://173.82.57.77:8890/fhtv.php?id=1105
+美國CNBC,http://173.82.57.77:8890/fhtv.php?id=1106
+美國Bloomberg,http://173.82.57.77:8890/fhtv.php?id=1107
+美國Fox Business,http://173.82.57.77:8890/fhtv.php?id=1108
+美國HBO Comedy,http://173.82.57.77:8890/fhtv.php?id=1109
+美國HBO1US,http://173.82.57.77:8890/fhtv.php?id=1110
+美國HBO2US,http://173.82.57.77:8890/fhtv.php?id=1111
+美國HBO Signature,http://173.82.57.77:8890/fhtv.php?id=1112
+美國HBO Family,http://173.82.57.77:8890/fhtv.php?id=1113
+美國ShowTime 1,http://173.82.57.77:8890/fhtv.php?id=1114
+美國ShowTime 2,http://173.82.57.77:8890/fhtv.php?id=1115
+美國ShowCase US,http://173.82.57.77:8890/fhtv.php?id=1116
+美國Starz,http://173.82.57.77:8890/fhtv.php?id=1117
+美國Starz Comedy,http://173.82.57.77:8890/fhtv.php?id=1118
+美國Starz Edge,http://173.82.57.77:8890/fhtv.php?id=1119
+美國Starz Kids Family,http://173.82.57.77:8890/fhtv.php?id=1120
+美國Starz Encore,http://173.82.57.77:8890/fhtv.php?id=1121
+美國Starz Encore Westerns,http://173.82.57.77:8890/fhtv.php?id=1122
+美國Cinemax,http://173.82.57.77:8890/fhtv.php?id=1123
+美國-30A TV,http://173.82.57.77:8890/fhtv.php?id=1052
+美國-American Horrors,http://173.82.57.77:8890/fhtv.php?id=1054
+美國-Atlanta,http://173.82.57.77:8890/fhtv.php?id=1055
+美國-Panama City,http://173.82.57.77:8890/fhtv.php?id=1056
+美國-Pawleys Island,http://173.82.57.77:8890/fhtv.php?id=1057
+美國-Bloomberg Television,,http://173.82.57.77:8890/fhtv.php?id=1058
+美國-HBO Comedy East,http://173.82.57.77:8890/fhtv.php?id=269
+美國-BET,http://173.82.57.77:8890/fhtv.php?id=270
+美國-HBO East,http://173.82.57.77:8890/fhtv.php?id=271
+美國-HBO Signature,http://173.82.57.77:8890/fhtv.php?id=272
+美國-HBO Zone East,http://173.82.57.77:8890/fhtv.php?id=273
+美國-HGTV-,http://173.82.57.77:8890/fhtv.php?id=274
+美國-HISTORY,http://173.82.57.77:8890/fhtv.php?id=275
+美國-GOD TV,http://173.82.57.77:8890/fhtv.php?id=276
+美國-Box Nation,http://173.82.57.77:8890/fhtv.php?id=277
+美國-Big Ten Network,http://173.82.57.77:8890/fhtv.php?id=278
+美國-Sec Network,http://173.82.57.77:8890/fhtv.php?id=279
+美國-NFL RedZone,http://173.82.57.77:8890/fhtv.php?id=280
+美國-NESN,http://173.82.57.77:8890/fhtv.php?id=281
+美國-Tennis,http://173.82.57.77:8890/fhtv.php?id=282
+美國-UFC Network,http://173.82.57.77:8890/fhtv.php?id=283
+美國-TNT,http://173.82.57.77:8890/fhtv.php?id=284
+美國-NAT-GEO,http://173.82.57.77:8890/fhtv.php?id=285
+美國-MTV,http://173.82.57.77:8890/fhtv.php?id=286
+加拿大-CP 24 Canada,http://173.82.57.77:8890/fhtv.php?id=1247
+加拿大-CBC News,http://173.82.57.77:8890/fhtv.php?id=1248
+加拿大-CTV News,http://173.82.57.77:8890/fhtv.php?id=1249
+加拿大-Business Network News,http://173.82.57.77:8890/fhtv.php?id=1250
+加拿大-The Weather Network,http://173.82.57.77:8890/fhtv.php?id=1251
+加拿大-CBC,http://173.82.57.77:8890/fhtv.php?id=1252
+加拿大-CTV,http://173.82.57.77:8890/fhtv.php?id=1253
+加拿大-Global,http://173.82.57.77:8890/fhtv.php?id=1254
+加拿大-City,http://173.82.57.77:8890/fhtv.php?id=1255
+加拿大-CHCH,http://173.82.57.77:8890/fhtv.php?id=1256
+加拿大-CTV 2,http://173.82.57.77:8890/fhtv.php?id=1257
+加拿大-OMNI 1,http://173.82.57.77:8890/fhtv.php?id=1258
+加拿大-OMNI 2,http://173.82.57.77:8890/fhtv.php?id=1259
+加拿大-TVO,http://173.82.57.77:8890/fhtv.php?id=1260
+加拿大-Discovery Canada,http://173.82.57.77:8890/fhtv.php?id=1261
+加拿大-TLC Canada,http://173.82.57.77:8890/fhtv.php?id=1262
+加拿大-Love Nature,http://173.82.57.77:8890/fhtv.php?id=1263
+加拿大-Food Network Cabada,http://173.82.57.77:8890/fhtv.php?id=1265
+加拿大-Cooking Channel Canada,http://173.82.57.77:8890/fhtv.php?id=1266
+加拿大-CTV Comedy,http://173.82.57.77:8890/fhtv.php?id=1267
+加拿大-CTV Sci-Fi,http://173.82.57.77:8890/fhtv.php?id=1268
+加拿大-Crave 1,http://173.82.57.77:8890/fhtv.php?id=1269
+加拿大-Crave 2,http://173.82.57.77:8890/fhtv.php?id=1270
+加拿大-Crave 3,http://173.82.57.77:8890/fhtv.php?id=1271
+加拿大-Crave 4,http://173.82.57.77:8890/fhtv.php?id=1272
+加拿大-TSN 2,http://173.82.57.77:8890/fhtv.php?id=1274
+加拿大-TSN 1,http://173.82.57.77:8890/fhtv.php?id=1273
+加拿大-TSN 3,http://173.82.57.77:8890/fhtv.php?id=1275
+加拿大-TSN 4,http://173.82.57.77:8890/fhtv.php?id=1276
+加拿大-TSN 5,http://173.82.57.77:8890/fhtv.php?id=1277
+加拿大-SportNet ON,http://173.82.57.77:8890/fhtv.php?id=1278
+加拿大-SportNet One,http://173.82.57.77:8890/fhtv.php?id=1279
+加拿大-SportNet World,http://173.82.57.77:8890/fhtv.php?id=1280
+加拿大-SportNet 360,http://173.82.57.77:8890/fhtv.php?id=1281
+加拿大-NBA CA,http://173.82.57.77:8890/fhtv.php?id=1282
+加拿大-TreeHouse,http://173.82.57.77:8890/fhtv.php?id=1283
+加拿大-Teletoon,http://173.82.57.77:8890/fhtv.php?id=1284
+加拿大-YTV,http://173.82.57.77:8890/fhtv.php?id=1285
+加拿大-新時代東部,http://173.82.57.77:8890/fhtv.php?id=1286
+加拿大-新時代西部,http://173.82.57.77:8890/fhtv.php?id=1287
+加拿大-城市電視,http://173.82.57.77:8890/fhtv.php?id=1289
+加拿大-新時代2,http://173.82.57.77:8890/fhtv.php?id=1288
+印度DD News,http://173.82.57.77:8890/fhtv.php?id=463
+印度HBO,http://173.82.57.77:8890/fhtv.php?id=464
+印度ZeeNews,http://173.82.57.77:8890/fhtv.php?id=465
+印度TEN1,http://173.82.57.77:8890/fhtv.php?id=466
+印度TEN2,http://173.82.57.77:8890/fhtv.php?id=467
+印度TEN3,http://173.82.57.77:8890/fhtv.php?id=468
+印度And Pictures,http://173.82.57.77:8890/fhtv.php?id=469
+印度Colors,http://173.82.57.77:8890/fhtv.php?id=470
+印度NDTV,http://173.82.57.77:8890/fhtv.php?id=471
+印度Zee Tamil,http://173.82.57.77:8890/fhtv.php?id=472
+印度India TV,http://173.82.57.77:8890/fhtv.php?id=473
+印度Sony Mix,http://173.82.57.77:8890/fhtv.php?id=474
+印度Sony Sab,http://173.82.57.77:8890/fhtv.php?id=475
+印度Star Movies,http://173.82.57.77:8890/fhtv.php?id=478
+印度Star Plus,http://173.82.57.77:8890/fhtv.php?id=479
+印度Zee Marathi,http://173.82.57.77:8890/fhtv.php?id=480
+印度Zee Studio,http://173.82.57.77:8890/fhtv.php?id=481
+印度Zee TV,http://173.82.57.77:8890/fhtv.php?id=482
+印度Sony,http://173.82.57.77:8890/fhtv.php?id=483
+印度Zee Cinema,http://173.82.57.77:8890/fhtv.php?id=484
+印度Zee Classic,http://173.82.57.77:8890/fhtv.php?id=485
+印度Tv9 Bharatvarsh,http://173.82.57.77:8890/fhtv.php?id=1125
+韓日越泰,#genre#
+韓國TVN MOVIE,http://173.82.57.77:8890/fhtv.php?id=1082
+韓國-YTN Science,http://173.82.57.77:8890/fhtv.php?id=1092
+韓國-EBS 2,http://173.82.57.77:8890/fhtv.php?id=1093
+韓國-EBS Kids,http://173.82.57.77:8890/fhtv.php?id=1094
+韓國-EBS English,http://173.82.57.77:8890/fhtv.php?id=1095
+韓國-EBSPlus 1,http://173.82.57.77:8890/fhtv.php?id=1096
+韓國-EBSPlus 2,http://173.82.57.77:8890/fhtv.php?id=1097
+韓國-EBS1,http://173.82.57.77:8890/fhtv.php?id=1098
+韓國-UBC SBS,http://173.82.57.77:8890/fhtv.php?id=1099
+韓國-KTV,http://173.82.57.77:8890/fhtv.php?id=1100
+韓國-SBS Star,http://173.82.57.77:8890/fhtv.php?id=1101
+韓國-YTN,http://173.82.57.77:8890/fhtv.php?id=1061
+韓國-KBS Dram,http://173.82.57.77:8890/fhtv.php?id=1062
+韓國-NGC,http://173.82.57.77:8890/fhtv.php?id=1064
+韓國-??TV,http://173.82.57.77:8890/fhtv.php?id=1065
+韓國-SBS??,http://173.82.57.77:8890/fhtv.php?id=486
+韓國-SBS Sports,http://173.82.57.77:8890/fhtv.php?id=487
+韓國-OCN,http://173.82.57.77:8890/fhtv.php?id=488
+韓國-iNet,http://173.82.57.77:8890/fhtv.php?id=490
+韓國-????,http://173.82.57.77:8890/fhtv.php?id=492
+韓國-半島國際新聞,http://173.82.57.77:8890/fhtv.php?id=494
+韓國-OCNMOVIES,http://173.82.57.77:8890/fhtv.php?id=1020
+韓國-KBS joy,http://173.82.57.77:8890/fhtv.php?id=1154
+韓國-Tconvers,http://173.82.57.77:8890/fhtv.php?id=1134
+韓國-Mnet,http://173.82.57.77:8890/fhtv.php?id=1136
+韓國-KBS2,http://173.82.57.77:8890/fhtv.php?id=250
+韓國-KBS1,http://173.82.57.77:8890/fhtv.php?id=174
+韓國-MBC,http://173.82.57.77:8890/fhtv.php?id=251
+韓國-SBS,http://173.82.57.77:8890/fhtv.php?id=252
+韓國-JTBC,http://173.82.57.77:8890/fhtv.php?id=253
+韓國-SBS FUNE,http://173.82.57.77:8890/fhtv.php?id=254
+韓國-SBS CNBC,http://173.82.57.77:8890/fhtv.php?id=255
+韓國-CNTV,http://173.82.57.77:8890/fhtv.php?id=256
+韓國-MBN,http://173.82.57.77:8890/fhtv.php?id=257
+韓國-Channel A,http://173.82.57.77:8890/fhtv.php?id=258
+韓國-SBS PLus,http://173.82.57.77:8890/fhtv.php?id=262
+韓國-KBSN???,http://173.82.57.77:8890/fhtv.php?id=264
+韓國-MBC???+,http://173.82.57.77:8890/fhtv.php?id=265
+韓國-Spotv,http://173.82.57.77:8890/fhtv.php?id=266
+韓國-Spotv2,http://173.82.57.77:8890/fhtv.php?id=267
+韓國-JTBC??,http://173.82.57.77:8890/fhtv.php?id=268
+韓國-MBCevery1,http://173.82.57.77:8890/fhtv.php?id=476
+日本-NHK World,http://173.82.57.77:8890/fhtv.php?id=117
+日本-NTV,http://173.82.57.77:8890/fhtv.php?id=119
+日本-NHKE,http://173.82.57.77:8890/fhtv.php?id=120
+日本-NHK-G,http://173.82.57.77:8890/fhtv.php?id=121
+日本-tvtokyo,http://173.82.57.77:8890/fhtv.php?id=123
+日本-TBS,http://173.82.57.77:8890/fhtv.php?id=124
+日本-大阪TV,http://173.82.57.77:8890/fhtv.php?id=126
+日本-ABC朝日,http://173.82.57.77:8890/fhtv.php?id=127
+日本-bs1,http://173.82.57.77:8890/fhtv.php?id=128
+日本-jsport1,http://173.82.57.77:8890/fhtv.php?id=129
+日本-jsport2,http://173.82.57.77:8890/fhtv.php?id=130
+日本-jsport3,http://173.82.57.77:8890/fhtv.php?id=131
+日本-jsport4,http://173.82.57.77:8890/fhtv.php?id=132
+日本-wowo1,http://173.82.57.77:8890/fhtv.php?id=133
+日本-wowo2,http://173.82.57.77:8890/fhtv.php?id=134
+日本-wowo3,http://173.82.57.77:8890/fhtv.php?id=135
+日本-STAR1,http://173.82.57.77:8890/fhtv.php?id=136
+日本-STAR2,http://173.82.57.77:8890/fhtv.php?id=137
+日本-STAR3,http://173.82.57.77:8890/fhtv.php?id=138
+日本-animax,http://173.82.57.77:8890/fhtv.php?id=139
+日本-Green,http://173.82.57.77:8890/fhtv.php?id=140
+日本-読売テレビ,http://173.82.57.77:8890/fhtv.php?id=198
+日本-毎日放送,http://173.82.57.77:8890/fhtv.php?id=199
+日本-関西テレビ,http://173.82.57.77:8890/fhtv.php?id=235
+日本-テレビ朝日,http://173.82.57.77:8890/fhtv.php?id=237
+日本-BSプレミアム,http://173.82.57.77:8890/fhtv.php?id=238
+日本-BSプレミアム,http://173.82.57.77:8890/fhtv.php?id=239
+日本-BS日テレ,http://173.82.57.77:8890/fhtv.php?id=240
+日本-BS朝日,http://173.82.57.77:8890/fhtv.php?id=241
+日本-BS-TBS,http://173.82.57.77:8890/fhtv.php?id=242
+日本-BSテレビ東京,http://173.82.57.77:8890/fhtv.php?id=243
+日本-BS-FUJI,http://173.82.57.77:8890/fhtv.php?id=244
+日本-GREEN,http://173.82.57.77:8890/fhtv.php?id=245
+日本-SKY A,http://173.82.57.77:8890/fhtv.php?id=247
+日本-Golf Network,http://173.82.57.77:8890/fhtv.php?id=249
+日本-Tokyo MX1,http://173.82.57.77:8890/fhtv.php?id=33
+日本-Japan Channel DX,http://173.82.57.77:8890/fhtv.php?id=39
+日本-NTV News24,http://173.82.57.77:8890/fhtv.php?id=42
+日本-時代劇の専門家,http://173.82.57.77:8890/fhtv.php?id=287
+日本-MUSIC JAPAN,http://173.82.57.77:8890/fhtv.php?id=288
+日本-KIDS,http://173.82.57.77:8890/fhtv.php?id=289
+日本-Discovery,http://173.82.57.77:8890/fhtv.php?id=290
+日本-衛星劇場,http://173.82.57.77:8890/fhtv.php?id=298
+越南-THHN,http://173.82.57.77:8890/fhtv.php?id=1290
+越南-LA34,http://173.82.57.77:8890/fhtv.php?id=1291
+越南-THGL,http://173.82.57.77:8890/fhtv.php?id=1292
+越南-PTP,http://173.82.57.77:8890/fhtv.php?id=1293
+越南-QRT,http://173.82.57.77:8890/fhtv.php?id=1294
+越南-THBT,http://173.82.57.77:8890/fhtv.php?id=1295
+越南-KonTumTV,http://173.82.57.77:8890/fhtv.php?id=1296
+越南-BPTV1,http://173.82.57.77:8890/fhtv.php?id=1297
+越南-BPTV2,http://173.82.57.77:8890/fhtv.php?id=1298
+越南-VITV,http://173.82.57.77:8890/fhtv.php?id=1299
+越南-ANTV,http://173.82.57.77:8890/fhtv.php?id=1300
+越南-ANTV,http://173.82.57.77:8890/fhtv.php?id=1301
+越南-HBTV,http://173.82.57.77:8890/fhtv.php?id=1302
+越南-KienGiangTV,http://173.82.57.77:8890/fhtv.php?id=1309
+越南-KienGiangTV1,http://173.82.57.77:8890/fhtv.php?id=1310
+越南-AnGiangTV,http://173.82.57.77:8890/fhtv.php?id=1311
+越南-ANTV,http://173.82.57.77:8890/fhtv.php?id=1312
+越南-BenTreTV,http://173.82.57.77:8890/fhtv.php?id=1313
+越南-BinhPhuocTV1,http://173.82.57.77:8890/fhtv.php?id=1314
+越南-BinhPhuocTV2,http://173.82.57.77:8890/fhtv.php?id=1315
+越南-Da Nang TV1,http://173.82.57.77:8890/fhtv.php?id=1316
+越南-DakLakTV,http://173.82.57.77:8890/fhtv.php?id=1317
+越南-KhanhHoaTV,http://173.82.57.77:8890/fhtv.php?id=1318
+越南-KienGiangTV,http://173.82.57.77:8890/fhtv.php?id=1319
+越南-KienGiangTV1,http://173.82.57.77:8890/fhtv.php?id=1320
+越南-PhuYenTV,http://173.82.57.77:8890/fhtv.php?id=1323
+越南-QuangNamTV,http://173.82.57.77:8890/fhtv.php?id=1324
+越南-KonTumTV,http://173.82.57.77:8890/fhtv.php?id=1325
+越南-LongAnTV,http://173.82.57.77:8890/fhtv.php?id=1321
+越南-NhanDanTV,http://173.82.57.77:8890/fhtv.php?id=1322
+泰國-Thai PBS,http://173.82.57.77:8890/fhtv.php?id=1047
+泰國-NBT,http://173.82.57.77:8890/fhtv.php?id=1048
+泰國-DDTV,http://173.82.57.77:8890/fhtv.php?id=1138
+泰國-Thairath TV,http://173.82.57.77:8890/fhtv.php?id=1139
+泰國-ChanneL8,http://173.82.57.77:8890/fhtv.php?id=1140
