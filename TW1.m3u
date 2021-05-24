@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1,CNEX ★
 http://61.58.60.230:9319/live/257.m3u8
+#EXTINF:-1,寰宇新聞台
+http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1,TVBS新闻 FHD ★
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1,三立iNews FHD ★
