@@ -20,7 +20,7 @@ http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 #EXTINF:-1 ,緯來電影台
 http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 #EXTINF:-1 ,緯來日本台
-http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+rtmp://161.202.204.248/sat/tv522
 #EXTINF:-1 ,三立新聞
 http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 #EXTINF:-1 ,三立台灣
