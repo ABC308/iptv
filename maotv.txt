@@ -27,6 +27,13 @@
             ]
         },
         {
+           "key": "AVZY影視",
+           "name": "AVZY影視",
+           "type": 0,
+           "api": "http://m.7777688.com/inc/api.php",
+           "playUrl": ""
+        },
+        {
             "key": "好好资源",
             "name": "好好资源",
             "type": 0,
