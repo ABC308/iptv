@@ -430,27 +430,35 @@
             "group": "Taiwan TV",
             "channels": [
                 {
-                    "name": 緯來日本",
+                    "name": "緯來日本",
                     "urls": [
-                        "http://50.7.61.147:30080/Entry/vljp"
+                        "rtmp://161.202.204.248/sat/tv771"
                     ]
                 },
                 {
                     "name": "東森新聞",
                     "urls": [
-                        "http://50.7.61.147:30080/Entry/etnews"
+                        "http://seb.sason.top/sc/dsxw_fhd.m3u8"
                     ]
                 },
                 {
                     "name": "TVBS新聞",
                     "urls": [
-                        "http://50.7.61.148:30080/Entry/tvbsnews"
+                        "rtmp://161.202.204.248/sat/tv552"
+                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw"
                     ]
                 },
                 {
                     "name": "TVBS HD",
                     "urls": [
-                        "http://50.7.61.148:30080/Entry/tvbs"
+                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs"
+                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+                    ]
+                },
+                {
+                    "name": "BBC Earth",
+                    "urls": [
+                        "http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8"
                     ]
                 },
                 {
