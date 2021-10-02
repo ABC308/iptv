@@ -436,6 +436,12 @@
                     ]
                 },
                 {
+                    "name": "東森超視",
+                    "urls": [
+                        "rtmp://161.202.204.248/sat/tv521"
+                    ]
+                },
+                {
                     "name": "東森新聞",
                     "urls": [
                         "http://seb.sason.top/sc/dsxw_fhd.m3u8"
@@ -464,6 +470,41 @@
                     "name": "三立都會台",
                     "urls": [
                         "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on"
+                    ]
+                }
+            ]
+            "group": "AV Channel",
+            "channels": [
+               {
+                    "name": "香蕉台",
+                    "urls": [
+                        "p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts",
+                        "p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1"
+                    ]
+                },
+               {
+                    "name": "彩紅e台",
+                    "urls": [
+                        "p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts",
+                        "p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts",
+                        "p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e",
+                        "p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts"                   
+                    ]
+                },
+                {
+                    "name": "潘多拉玩美台",
+                    "urls": [
+                        "p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931",
+                        "p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts"
+                    ]
+                },
+                {
+                    "name": "驚豔台",
+                    "urls": [
+                        "p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts",
+                        "p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts",
+                        "p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2",
+                        "p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts"
                     ]
                 }
             ]
