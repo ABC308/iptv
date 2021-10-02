@@ -473,7 +473,9 @@
                     ]
                 }
             ]
-            "group": "AV Channel",
+        },
+        {
+        "group": "AV Channel",
             "channels": [
                {
                     "name": "香蕉台",
