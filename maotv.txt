@@ -451,8 +451,7 @@
                 {
                     "name": "TVBS HD",
                     "urls": [
-                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs",
-                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+                        "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs"
                     ]
                 },
                 {
