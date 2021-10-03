@@ -475,38 +475,55 @@
             ]
         },
         {
-        "group": "AV Channel",
+        "group": "大陸衛視",
             "channels": [
                {
-                    "name": "香蕉台",
+                    "name": "湖南衛視",
                     "urls": [
-                        "p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts",
-                        "p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1"
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225554/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225521/index.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225519/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225594/index.m3u8"
                     ]
                 },
                {
-                    "name": "彩紅e台",
+                    "name": "東方衛視",
                     "urls": [
-                        "p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts",
-                        "p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts",
-                        "p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e",
-                        "p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts"                   
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8",
+                        "http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225507/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225509/index.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225542/index.m3u8"                   
                     ]
                 },
                 {
-                    "name": "潘多拉玩美台",
+                    "name": "江蘇衛視",
                     "urls": [
-                        "p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931",
-                        "p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts"
+                        "http://117.148.179.160/PLTV/88888888/224/3221231447/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225515/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225596/index.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8",      
+                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225578/index.m3u8"
                     ]
                 },
                 {
-                    "name": "驚豔台",
+                    "name": "浙江衛視",
                     "urls": [
-                        "p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts",
-                        "p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts",
-                        "p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2",
-                        "p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts"
+                        "http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8",
+                        "http://39.134.67.55:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225523/index.m3u8",
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8", 
+                        "http://111.40.196.9/PLTV/88888888/224/3221225510/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225538/index.m3u8"
                     ]
                 }
             ]
