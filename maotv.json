@@ -59,15 +59,6 @@
             "playUrl": ""
         },
         {
-            "key": "BL视频",
-            "name": "BL视频",
-            "type": 0,
-            "api": "https://bljiex.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
             "key": "剧好看",
             "name": "剧好看",
             "type": 0,
@@ -108,15 +99,6 @@
             "name": "天空资源",
             "type": 0,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "八戒云",
-            "name": "八戒云",
-            "type": 0,
-            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
             "playUrl": "",
             "categories": [                
             ]
@@ -305,22 +287,6 @@
             "name": "影视TV",
             "type": 1,
             "api": "https://v.dtjos.com/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "9875影院",
-            "name": "9875影院",
-            "type": 1,
-            "api": "https://www.9875.xyz/api.php/provide/vod/",
-            "playUrl": ""
-        },
-        {
-            "key": "孤单影院",
-            "name": "孤单影院",
-            "type": 0,
-            "api": "http://www.gudanys.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": [                
             ]
