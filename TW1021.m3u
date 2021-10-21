@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1,HBO
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1,JET綜合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1,SET三立臺灣
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1,TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1,TVBS HD
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1,TVBS新聞 HD
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1,中視 HD
+http://50.7.61.148:30080/Entry/ctv
+#EXTINF:-1,台視 HD
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1,民視 HD
+http://50.7.61.147:30080/Entry/ftv
+#EXTINF:-1,民視新聞
+http://50.7.61.148:30080/Entry/ftvnews
+#EXTINF:-1,東森新聞
+http://50.7.61.147:30080/Entry/etnews
+#EXTINF:-1,非凡商業 HD
+http://50.7.61.147:30080/Entry/ubnbus
+#EXTINF:-1,壹新聞 HD
+http://50.7.61.147:30080/Entry/etv
+#EXTINF:-1,華視CTS HD
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1,緯來日本
+http://50.7.61.147:30080/Entry/vljp
+#EXTINF:-1,衛視中文
+http://50.7.61.148:30080/Entry/starchinese
