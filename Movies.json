@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_trj",
-      "name": "唐人街┃牆外",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "唐人街",
       "name": "唐人街影院",
       "type": 3,
