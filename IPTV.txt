@@ -187,10 +187,10 @@ TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
 東風37,http://218.32.47.179:18528/.m3u8
 東風37,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 東風37,http://60.251.33.252:18560/.m3u8
-東森超視,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 東森超視,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 東森超視,http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森綜合 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合 HD,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
