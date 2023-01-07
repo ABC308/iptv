@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_trj",
-      "name": "🛫唐人街┃墙外",
+      "name": "唐人街┃墙外",
       "type": 3,
       "api": "csp_Tangrenjie",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Nbys",
-      "name": "🛫泥视频┃墙外",
+      "name": "泥视频┃墙外",
       "type": 3,
       "api": "csp_Nbys",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_If101",
-      "name": "🛫If101┃墙外",
+      "name": "If101┃墙外",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_panghu",
-      "name": "🐯胖虎┃SP",
+      "name": "胖虎┃SP",
       "type": 3,
       "api": "csp_Panghu",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_Mjxq",
-      "name": "🌏美剧星球┃SP",
+      "name": "美剧星球┃SP",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "🚌动漫巴士┃SP",
+      "name": "动漫巴士┃SP",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🌸日本动漫┃SP",
+      "name": "日本动漫┃SP",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "csp_Ying",
-      "name": "💮樱花动漫┃SP",
+      "name": "樱花动漫┃SP",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -93,7 +93,7 @@
       "url": "Demo"
     },
     {
-      "name": "💋So丶",
+      "name": "So丶",
       "type": 0,
       "url": " https://tljiaqing.nde.tw/m3u8/?url="
     },
