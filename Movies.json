@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_trj",
+      "name": "唐人街┃牆",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Jar/vob.jar"
+    },
+    {
       "key": "唐人街",
       "name": "唐人街影院",
       "type": 3,
