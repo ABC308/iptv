@@ -380,5 +380,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://www.darkskyline.lionfree.net/cat.jar"
+  "spider": "http://www.darkskyline.lionfree.net/cat.jar,https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar"
 }
