@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:0,中天綜合
-#EXTVLCOPT:http-user-agent="fhtv"
-http://173.82.57.77:8890/fhtv.php?id=54
