@@ -1,4 +1,11 @@
 {
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/chiang1102/iptv/master/ZLIVE.txt"
+    }
+  ],
   "sites": [
     {
       "key": "AList",
